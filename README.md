@@ -58,19 +58,10 @@ This is a **time-stamped declaration of authorship and intent**, created to:
 
 ---
 
-## ⚖️ Legal & Authorship Statement
+## ⚖️ Authorship Notice
 
-This repository affirms that:
-
-- All code, concept design, and AI logic developed under the `JonnyGeo`, `NeoShadeAi`, and `Neo-Shade-Ai` GitHub orgs is original work by **JonnyG**, unless explicitly credited otherwise.
-- This repo acts as an **anchor of authorship**, not a code dump.
-- Content, voice systems, and moral AI tools are independently developed and may not be reused, redistributed, or commercialized without written permission.
-- Unauthorized scraping, model training, or content replication is strictly prohibited.
-
-See also:
-- [PRIVACY.md](../PRIVACY.md)
-- [TERMS.md](../TERMS.md)
-- [SECURITY.md](../SECURITY.md)
+All code, content, and concepts within this repository are original work by **JonnyG** unless explicitly credited.  
+Legal documents such as `PRIVACY.md`, `TERMS.md`, and `SECURITY.md` are housed in a dedicated legal repository under the [NeoShadeAI organization](https://github.com/NeoShadeAi).
 
 ---
 
@@ -88,4 +79,5 @@ Just code, conviction, and real vision.
 **JonnyG** (a.k.a. Joker Jonny | Hackpen)  
 Founder – NeoLegacy | NeoShade AI | LuxeGulfCoast  
 GitHub: [@JonnyGeo](https://github.com/JonnyGeo)
+
 
